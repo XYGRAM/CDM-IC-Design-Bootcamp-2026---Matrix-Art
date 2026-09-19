@@ -13,8 +13,8 @@ When played on https://vga-playground.com/, it will output a Matrix Art written 
 
 ## How to test
 
-Explain how to use your project
+Open the file and it will redirect to https://vga-playground.com/ and automatically play the Matrix Art.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Browswer based.
