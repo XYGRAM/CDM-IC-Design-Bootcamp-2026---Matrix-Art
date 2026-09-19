@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+When played on https://vga-playground.com/, it will output a Matrix Art written in "Colegio De Muntinlupa".
 
 ## How to test
 
